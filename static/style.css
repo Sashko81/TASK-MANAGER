@@ -1,0 +1,19 @@
+.btn-head {
+    margin-left: 15px;
+}
+.part-of-form {
+    margin-left: 10px;
+}
+.part-of-reg {
+    display: none;
+}
+
+#no-auth {
+    display: none;
+}
+#is-auth {
+    display: none;
+}
+.displayNone {
+    display: none;
+}
